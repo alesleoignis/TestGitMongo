@@ -12,7 +12,7 @@ int main(int argc, const char * argv[])
 {
 
     // insert code here...
-    printf("By, World!\n");
+    printf("By, People!\n");
     return 0;
 }
 
